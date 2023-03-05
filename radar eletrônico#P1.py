@@ -1,3 +1,5 @@
+#projeto 1 CTD: Radar eletrônico
+
 velocidade = float(input("Qual a velocidade atual do carro? "))#determinar a velocidade do carro
 if velocidade > 80: #se a velocidade for maior que 80 exibir uma multa
     print("MULTADO! Você excedeu o limite permitido que é de 80km/h") #mensagem que o individuo recebe a multa
